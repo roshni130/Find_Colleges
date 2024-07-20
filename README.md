@@ -1,1 +1,1 @@
-# Find_Colleges
+This is used to find colleges.
